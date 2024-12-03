@@ -24,4 +24,6 @@ int main(){
     for(int i: myNumbers) { //foreach function to print inside of  the array
         cout << i << "\n";
     }
+
+    return 0;
 }

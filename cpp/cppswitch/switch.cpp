@@ -38,4 +38,6 @@ int main() {
         default:
             cout << "A: That's not a valid day of the week!\n";
     }
+
+    return 0;
 }

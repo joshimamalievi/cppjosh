@@ -12,4 +12,7 @@ int main() {
     cout << sqrt(x) << endl;// squareroot
     cout << round(sqrt(y)) << endl; // rounding to the next integer
     cout << log(2.71829) << endl; //natural logarithm
+
+
+    return 0;
 }

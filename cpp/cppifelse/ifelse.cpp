@@ -18,4 +18,6 @@ int main(){
     string result = (legalAge > x) ? "Bouncer: WEHRE ARE YOUR PARENTSS???!?!?!?!?!?!" : "Bouncer: DONT EVER COME BACK";
     cout << result;
 
+    return 0;
+
 }
