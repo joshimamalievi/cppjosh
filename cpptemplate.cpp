@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     //creating a file
-    ofstream MyFile("try&catch.cpp");
+    ofstream MyFile("queue.cpp");
 
     //writes into file
     MyFile << "#include <iostream>\n\nusing namespace std;\n\nint main() {\n\n\treturn 0;\n}";
